@@ -1,0 +1,6 @@
+:root {
+    
+}
+:root:has(.dark-theme) body {
+    background-color: black;
+}   

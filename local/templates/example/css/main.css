@@ -1,0 +1,16 @@
+@import url(_variables.css);
+
+* {
+    padding: 0;
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 120px 0;
+}
